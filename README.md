@@ -1,3 +1,5 @@
+NIM : 1182002002 
+Nama : Febby Novanti Azhara
 Sumber Data :
 https://www.kaggle.com/lava18/google-play-store-apps
 Sumber Code :
